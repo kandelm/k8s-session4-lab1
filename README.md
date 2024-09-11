@@ -75,4 +75,49 @@ How It Differs from a Standard ClusterIP Service:
 
 7. Create a ClusterIP Service:
 
-    
+    ![alt text](image.png)
+
+    ![alt text](image-1.png)
+
+
+8. Set up a NodePort Service:
+
+    ![alt text](image-2.png)
+
+    ![alt text](image-3.png)
+
+    ![alt text](image-4.png)
+
+
+9. Test Service with Selectors:
+
+    ![alt text](image-5.png)
+
+    ![alt text](image-6.png)
+
+    ![alt text](image-7.png)
+
+    ![alt text](image-8.png)
+
+    ![alt text](image-9.png)
+
+    ![alt text](image-10.png)
+
+10. Change Service Selector:
+
+    ![alt text](image-11.png)
+
+    ![alt text](image-12.png)
+
+    ![alt text](image-13.png)
+
+    ![alt text](image-14.png)
+
+    ![alt text](image-15.png)
+
+    ![alt text](image-16.png)
+
+11. Configure a Service for Multiple Ports:
+
+
+
